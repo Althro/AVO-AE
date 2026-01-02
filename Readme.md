@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/The-Animonculory/AVO-AE/main/.github/AVOAENewLogo.webp)
 
-# :exclamation::warning: THIS LIST HAS NOW BEEN ARCHIVED AND WILL NO LONGER RECIEVE SUPPORT OR UPDATES. PLEASE USE [AVO-NG](https://github.com/The-Animonculory/AVO-NG). :warning::exclamation:
+# :exclamation::warning: THIS LIST HAS NOW BEEN ARCHIVED AND WILL NO LONGER RECIEVE SUPPORT OR UPDATES. :warning::exclamation:
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -19,8 +19,6 @@ Designed as a base to build your list off, **Animonculory Visual Overhaul (AVO)*
 AVO is made for Skyrim Special Edition's latest patch (1.6.640/659 at the time of writing) and uses the .exe of that version as well. AVO-AE **REQUIRES** the paid update to Skyrim. If you do not own it, please use the [standard version](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/Readme.md).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-# :exclamation::warning: AS OF 7TH APRIL 2023 THIS LIST IS NO LONGER SUPPORTED. BY PROCEEDING WITH INSTALLATION YOU ACKNOWLEDGE THAT NO SUPPORT WILL BE PROVIDED IF YOU ENCOUNTER ERRORS. :warning: :exclamation:
 
 ## :computer: System Requirements
 
